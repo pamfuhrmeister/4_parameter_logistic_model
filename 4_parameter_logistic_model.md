@@ -495,6 +495,7 @@ kbl(all_results,
   </tr>
 </tbody>
 </table>
+
 ## Results and discussion
 
 The significant effect of slope.continuum1 suggests that there is a significant difference between the slopes in the two continua. The estimate represents the difference in slopes between the two continua, and it is positive. Since we coded our contrasts as ba-da = 0.5 and s-sh = -0.5, that means that participants' ba-da slope is significantly steeper than their s-sh slope (mean ba-da slope = $1.42 + (0.69*0.5) = 1.765$; mean s-sh slope = $1.42 + (0.69*-0.5) = 1.075$).
