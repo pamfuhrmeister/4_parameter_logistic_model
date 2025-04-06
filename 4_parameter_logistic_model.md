@@ -1,7 +1,7 @@
 ---
 title: "Four parameter logistic models of speech perception"
 author: "Pam Fuhrmeister"
-date: "2024-01-08"
+date: "2025-04-06"
 output:
   html_document:
     keep_md: yes
@@ -14,7 +14,7 @@ output:
 
 # Project summary
 
-In this experiment, we wanted to measure individual differences in how categorically listeners perceive different speech sounds. For many years, we thought that listeners perceived speech sounds in discrete categories (e.g., /b/ or /d/), despite variability in how each individual sounds are realized. We now know, however, that listeners can perceive subtle differences in sounds, for example, when a sound falls between the sounds /b/ and /d/. 
+In this experiment, we wanted to measure individual differences in how categorically listeners perceive different speech sounds. For many years, we thought that listeners perceived speech sounds in discrete categories (e.g., /b/ or /d/), despite variability in how individual sounds are realized. We now know, however, that listeners can perceive subtle differences in sounds, for example, when a sound falls between the sounds /b/ and /d/. 
 
 We asked participants to listen to tokens from two continua of synthetically created speech stimuli. One continuum consisted of seven equal steps between the speech syllables ba to da (starting with ba and each token becoming more da-like), and the other consisted of seven equal steps between the two words sign to shine (starting with sign and each token becoming more sh-like). Participants heard each token on each continuum 15 times, for a total of 105 trials per continuum. Participants were asked to rate on a scale from 1-7 how ba-like or da-like (or s-like or sh-like) the tokens sounded to them. 
 
